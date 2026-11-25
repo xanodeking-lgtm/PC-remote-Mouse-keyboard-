@@ -1,0 +1,14 @@
+{
+	"appId": "com.padbridge.controller",
+	"appName": "PadBridge",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"backgroundColor": "#0D0F12",
+		"allowMixedContent": false,
+		"captureInput": true,
+		"webContentsDebuggingEnabled": false
+	}
+}

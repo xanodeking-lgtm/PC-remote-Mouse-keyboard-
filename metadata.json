@@ -1,0 +1,6 @@
+{
+  "name": "PadBridge",
+  "description": "Ad-free wireless PC gamepad, precision multi-touch trackpad mouse, and full desktop keyboard controller with live WebSocket pairing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

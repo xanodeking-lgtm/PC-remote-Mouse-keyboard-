@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PadBridge</string>
+    <string name="title_activity_main">PadBridge</string>
+    <string name="package_name">com.padbridge.controller</string>
+    <string name="custom_url_scheme">com.padbridge.controller</string>
+</resources>
